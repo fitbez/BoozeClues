@@ -1,25 +1,9 @@
 # BoozeClues
-### [Live Website: https://protected-sierra-25147.herokuapp.com/]
 
-created by [Nick H](https://github.com/smugclimber)
-
-#### key libraries and tech <br>
-
-Express <br>
-Handlebars <br>
-Passport User Auth <br>
-socket.io <br>
-MySQL <br>
-Heroku <br>
-NPM <br>
-Git / Github <br>
-jQuery <br>
-Materialize <br>
-Javascript <br>
-
-#### about this project
+---
+## about this project
 A fully functional Bar Trivia management system. Booze Clues is an application that supports users and bars hosting trivia nights. The core functionality is obtaining trivia questions from an API source, and connecting pubs hosting with visiting bar patrons. Users can log in, join new games and get personal scores as well as scores from competitors. Enjoy!
-
+---
 ### code
 To connect with bars and other players, we required the socket.io NPM Package [socket.io](#socket.io) which enabled us to have a timer broadcasting to all game participants.
 #### orm
