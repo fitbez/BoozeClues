@@ -4,7 +4,7 @@
 created by [Nick H](https://github.com/smugclimber)
 
 #### key libraries and tech <br>
-Node <br>
+
 Express <br>
 Handlebars <br>
 Passport User Auth <br>
