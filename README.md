@@ -1,7 +1,8 @@
 # BoozeClues
 
----
+
 ## about this project
+---
 A fully functional Bar Trivia management system. Booze Clues is an application that supports users and bars hosting trivia nights. The core functionality is obtaining trivia questions from an API source, and connecting pubs hosting with visiting bar patrons. Users can log in, join new games and get personal scores as well as scores from competitors. Enjoy!
 ---
 ### code
